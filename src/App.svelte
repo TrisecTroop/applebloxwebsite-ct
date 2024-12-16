@@ -47,7 +47,7 @@
 		{
 			icon: Wrench,
 			title: "Integrations",
-			description: "See your game server region, share your activity on Discord, and run multiple game instances simultaneously.",
+			description: "See your game server region, and share your activity on Discord",
 		},
 		{
 			icon: Joystick,
