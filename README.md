@@ -1,3 +1,3 @@
-# appleblox website
+# Appleblox Website
 
 based 😎
