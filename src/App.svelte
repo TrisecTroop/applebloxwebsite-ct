@@ -41,13 +41,13 @@
 	const features: Feature[] = [
 		{
 			icon: Zap,
-			title: "Light & Fast",
-			description: "Built with NeutralinoJS, using only ~50mb RAM. Customize performance with FFlags presets or create your own profiles.",
+			title: "Light & Basic",
+			description: "Built on WebKit using Neutralino.js, the app uses 50MB of ram on average.",
 		},
 		{
 			icon: Wrench,
 			title: "Integrations",
-			description: "See your game server region, and share your activity on Discord",
+			description: "See your game server region, and share your activity on Discord. Comes with built-in implementation of the Bloxstrap SDK.",
 		},
 		{
 			icon: Joystick,
